@@ -2,7 +2,7 @@
 
 ## Day 1 – variables, simple data types, and string interpolation
 
-```
+```swift
 struct Animal {
     let nickName : String?
 }
