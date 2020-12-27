@@ -15,3 +15,12 @@ Now it is a collection view! Much cooler!
 - Storyboard
 - AutoLayout
 and more...
+
+## Important
+
+Get an array of strings with all files in the bundle:
+```swift
+let fm = FileManager.default
+let path = Bundle.main.resourcePath!
+let items = try! fm.contentsOfDirectory(atPath: path)
+```
