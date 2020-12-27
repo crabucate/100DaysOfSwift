@@ -24,7 +24,11 @@ let fm = FileManager.default
 let path = Bundle.main.resourcePath!
 let items = try! fm.contentsOfDirectory(atPath: path)
 ```
-Large title in navigation controller
+Large title in navigation controller:
 ```swift
 navigationController?.navigationBar.prefersLargeTitles = true
 ```
+Hide navigation bar on tap (best to be called in viewWillAppear()):
+```swift
+navigationController?.hidesBarsOnTap = true
+'''
