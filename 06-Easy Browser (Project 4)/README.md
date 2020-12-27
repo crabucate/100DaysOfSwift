@@ -1,4 +1,4 @@
-# Easy-Browser
+# Easy-Browser (Day 24-26)
 Project4 of 100DaysOfSwift by @twostraws /
 This app shows a simple browser. It can only visit specific sites.
 
