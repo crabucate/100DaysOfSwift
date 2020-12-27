@@ -1,5 +1,5 @@
 # 100 Days Of Swift
-**Author:** Paul Hudson (@twostraws)
+**Author:** Paul Hudson ([@twostraws](https://github.com/twostraws)\)
 
 **URL:** http://www.hackingwithswift.com/100
 
