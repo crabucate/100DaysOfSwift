@@ -31,4 +31,4 @@ navigationController?.navigationBar.prefersLargeTitles = true
 Hide navigation bar on tap (best to be called in viewWillAppear()):
 ```swift
 navigationController?.hidesBarsOnTap = true
-'''
+```
