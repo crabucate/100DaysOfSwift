@@ -24,3 +24,7 @@ let fm = FileManager.default
 let path = Bundle.main.resourcePath!
 let items = try! fm.contentsOfDirectory(atPath: path)
 ```
+Large title in navigation controller
+```swift
+navigationController?.navigationBar.prefersLargeTitles = true
+```
