@@ -1,0 +1,3 @@
+# Swift Strings
+
+No Notes ;(
